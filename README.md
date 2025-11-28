@@ -1,11 +1,7 @@
 <h1 align="center">hey there 👋</h1>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/3675808.png" alt="TryHackMe" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/stackraid.png" alt="TryHackMe Badge" />
 </p>
-<p align="center">
-  <img src="https://i.imgur.com/4M7IG1T.png" width="200" height="200" />
-</p>
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Anil Tadvi (nickXploit)** — a  
