@@ -52,6 +52,170 @@ Currently exploring advanced **Web Exploitation**, **Cloud Security**, and **OSC
 
 </div>
 
+## 🛠️ Skills, Tools & Technologies
+
+### 🧠 Programming & Scripting
+<table>
+  <tr>
+    <td width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+    <td><strong>Python</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#4caf50; width:75%; height:10px; border-radius:5px;"></div>
+      </div><small>75%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td><strong>JavaScript</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#ffeb3b; width:55%; height:10px; border-radius:5px;"></div>
+      </div><small>55%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></td>
+    <td><strong>Bash / Shell</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#00bcd4; width:80%; height:10px; border-radius:5px;"></div>
+      </div><small>80%</small>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 Web Pentesting & Offensive Tools
+<table>
+
+  <tr>
+    <td width="200"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40"/></td>
+    <td><strong>Burp Suite</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#f36c21; width:90%; height:10px; border-radius:5px;"></div>
+      </div><small>90%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40"/></td>
+    <td><strong>SQLMap</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#c62828; width:85%; height:10px; border-radius:5px;"></div>
+      </div><small>85%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-logo.svg" width="40"/></td>
+    <td><strong>Metasploit Framework</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#6a1b9a; width:70%; height:10px; border-radius:5px;"></div>
+      </div><small>70%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><img src="https://nmap.org/images/nmap-logo.svg" width="40"/></td>
+    <td><strong>Nmap</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#0d47a1; width:90%; height:10px; border-radius:5px;"></div>
+      </div><small>90%</small>
+    </td>
+  </tr>
+
+</table>
+
+---
+
+### 🛰️ Recon Automation & Bug Bounty Tools
+<table>
+
+  <tr>
+    <td width="200"><strong><img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/master/static/nuclei-logo.png" width="40"/></strong></td>
+    <td><strong>Nuclei</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#29b6f6; width:85%; height:10px; border-radius:5px;"></div>
+      </div><small>85%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><strong>Subfinder</strong></td>
+    <td><strong>Subfinder</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#43a047; width:90%; height:10px; border-radius:5px;"></div>
+      </div><small>90%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><strong>Assetfinder</strong></td>
+    <td><strong>Assetfinder</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#00897b; width:80%; height:10px; border-radius:5px;"></div>
+      </div><small>80%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><strong>HTTPX</strong></td>
+    <td><strong>HTTPX</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#ff9800; width:75%; height:10px; border-radius:5px;"></div>
+      </div><small>75%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><strong>Katana</strong></td>
+    <td><strong>Katana</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#3f51b5; width:65%; height:10px; border-radius:5px;"></div>
+      </div><small>65%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><strong>Dirsearch</strong></td>
+    <td><strong>Dirsearch</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#e53935; width:80%; height:10px; border-radius:5px;"></div>
+      </div><small>80%</small>
+    </td>
+  </tr>
+
+</table>
+
+---
+
+### 🧰 OS & Environments
+<table>
+
+  <tr>
+    <td width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></td>
+    <td><strong>Linux</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#ff5722; width:90%; height:10px; border-radius:5px;"></div>
+      </div><small>90%</small>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/></td>
+    <td><strong>macOS</strong>
+      <div style="background:#222; height:10px; border-radius:5px;">
+        <div style="background:#9e9e9e; width:70%; height:10px; border-radius:5px;"></div>
+      </div><small>70%</small>
+    </td>
+  </tr>
+
+</table>
+
+
+
+
 ---
 
 ## 🚀 Popular Projects
