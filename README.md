@@ -21,9 +21,9 @@ Currently exploring advanced **Web Exploitation**, **Cloud Security**, and **OSC
 
 <p align="left">
 <a href="https://github.com/nickXploit"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anil-tadvi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/nickXploit"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/nickXploit"><img src="https://img.shields.io/badge/THM-%23212C42.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anil-tadvi-238b592a7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Nick980076"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/stackraid"><img src="https://img.shields.io/badge/THM-%23212C42.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 ---
