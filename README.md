@@ -8,7 +8,7 @@ Hi, I'm **Anil Tadvi (nickXploit)** — a
 🛡️ Cybersecurity Researcher | 🎯 Red Teamer | 🔍 Bug Bounty Hunter  
 Currently exploring advanced **Web Exploitation**, **Cloud Security**, and **OSCP-level pentesting**.
 
-- 💻 5+ years as a security researcher  
+- 💻 4+ years as a security researcher  
 - 🐞 Reporting to HackerOne & YesWeHack  
 - 🕵️ Passionate about Recon, Automation & Zero-days  
 - 🔥 #1 on THM leaderboard (India ranking)
