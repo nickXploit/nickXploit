@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/stackraid.png" alt="TryHackMe Badge" />
 </p>
